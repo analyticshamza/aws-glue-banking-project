@@ -32,10 +32,9 @@ All key steps are documented below:
 
 | Step | Screenshot |
 |------|------------|
-| S3 Bucket Creation | ![S3 Bucket](screenshots/01_s3_bucket_created.png) |
-| Rawdata Folder | ![Rawdata](screenshots/02_rawdata_folder.png) |
-| Processeddata Folder | ![Processeddata](screenshots/03_processeddata_folder.png) |
-| File Upload | ![Upload](screenshots/04_file_uploaded.png) |
-| IAM Console Start | ![IAM Start](screenshots/05_iam_start.png) |
-| IAM Glue Role Setup | ![IAM Glue](screenshots/06_iam_glue_role.png) |
-| BankAdmin Role Created | ![BankAdmin](screenshots/07_bankadmin_created.png) |
+| S3 Bucket Creation | ![Image](https://github.com/user-attachments/assets/45fe85e6-c3ba-4bef-a99d-e2c86755cbca) |
+| Folder Creation | ![Image](https://github.com/user-attachments/assets/ba90b8a3-026c-4fd3-b804-689c0c14a531) |
+| File Upload | ![Image](https://github.com/user-attachments/assets/cf61cf1a-422e-49b9-81a7-facfe5915b87) |
+| IAM Console Start | ![Image](https://github.com/user-attachments/assets/ff399572-4449-4990-8eba-869a9cc63648) |
+| IAM Glue Role Setup | ![Image](https://github.com/user-attachments/assets/7ea34129-a8b9-4a4b-bac3-38f80f8d7b78) ![Image](https://github.com/user-attachments/assets/7f0dfdda-28ae-4462-95e5-8495b745548a) |
+| BankAdmin Role Created | ![Image](https://github.com/user-attachments/assets/e43c70ec-38ca-4850-ac88-c195342be772) |
